@@ -200,6 +200,10 @@ img {
     text-align: center;
 }
 
+.produtos_lista li img {
+  margin: 0 auto;  
+}
+
 .produtos_lista li img { /* Centraliza as imagens */
     margin: 0 auto;
 }
