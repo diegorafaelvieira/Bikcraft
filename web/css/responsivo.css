@@ -46,14 +46,14 @@
 	}
 
 	.form button {
-		margin-right: 13px;
-		padding: 5px 35px;
+		margin-right: 10px;
+		padding: 5px 20px;
 	}
 
 	/* Contato */
 	.contato_form button {
-		margin-right: 13px;
-		padding: 5px 35px;
+		margin-right: 10px;
+		padding: 5px 20px;
 	}
 
 	/* Final do Estilo para TABLET */	
@@ -166,7 +166,8 @@
 	}
 
 	.form button {
-		margin-right: 1.8px;
+		margin-right: 10px;
+		padding: 5px 20px;
 	}
 
 	.orcamento_dados ul {
@@ -181,7 +182,7 @@
 
 	.contato_form button {
 		margin-right: 10px;
-		padding: 5px 35px;
+		padding: 5px 20px;
 	}
 
 	/* Final do estilo para CELULAR */
