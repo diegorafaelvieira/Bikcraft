@@ -400,11 +400,13 @@ img {
 .js [data-slide] {
     position: relative;
 }
+
 .js [data-slide] > * {
     position: absolute;
     top: 0px;
     opacity: 0;
 }
+
 .js [data-slide] > .active {
     position: relative;
     opacity: 1;
@@ -418,6 +420,7 @@ img {
     text-align: center;
     margin-top: 20px;
 }
+
 .js [data-slide-nav] button {
     display: inline-block;
     width: 12px;
@@ -430,6 +433,23 @@ img {
     overflow: hidden;
     background: #1d1d1d;
 }
+
 .js [data-slide-nav] button.active {
     background: #fec63e;
 }
+
+/* Adicione o CSS Essêncial abaixo */
+.js [data-anime] {
+    opacity: 0;
+}
+
+.js .fadeInDown {
+    transform: translate3d(0, -20px, 0);
+}
+
+.js .anime {
+    opacity: 1;
+    transform: none;
+    transition: opacity 800ms, transform 800ms;
+}
+
