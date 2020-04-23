@@ -450,3 +450,18 @@ img {
     transition: opacity 800ms, transform 800ms;
 }
 
+/* Aqui escondo form anti-robô no contato.html */
+.nao-aparece {
+    visibility: hidden;
+    position: absolute;
+    height: 0px;
+}
+
+/* Mensagem Envio Formulário */
+#form-sucesso {
+    color: #31aa39;
+}
+
+#form-erro {
+    color: #f64540;
+}
