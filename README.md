@@ -2,4 +2,4 @@
 Repositório do Curso WebDesign da Origamid
 
 
-[Meu Site](https://diegorafaelvieira.github.io/Bikcraft/) 	:desktop_computer:
+[Meu Site](http://bikcraft.atwebpages.com/index.html) 	:desktop_computer:
